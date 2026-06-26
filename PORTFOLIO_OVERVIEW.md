@@ -57,13 +57,12 @@
 ## Project Setup (local)
 1. Install dependencies:
    ```bash
-   npm i
+   npm install
    ```
 2. Start development server:
    ```bash
    npm run dev
    ```
 
-## Design Reference
-Original design reference: https://www.figma.com/design/KtOAzUKODceHoieZKt1R5r/Developer-Portfolio-for-Anand
+
 
