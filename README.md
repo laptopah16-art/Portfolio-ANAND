@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-anand.vercel.app">🌐 Live Demo</a> •
+  <a href="https://portfolio-anand-helave.vercel.app/">🌐 Live Demo</a> •
   <a href="https://github.com/laptopah16-art">GitHub</a> •
   <a href="https://linkedin.com/in/anand-dev-2a0948401">LinkedIn</a>
 </p>
