@@ -35,7 +35,10 @@ The portfolio is designed as a modern, single-page experience featuring smooth a
 
 ---
 
-## 🛠 Tech Stack
+## Screenshot's
+<img width="1366" height="768" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/6462a4b7-fd10-4676-b2d2-5f9a953f6292" />
+<img width="1366" height="768" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/8b7c2a9a-68c3-4d03-8c9a-6e44d3edd4cc" />
+<img width="1366" height="768" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/539bd149-d645-4729-baaf-22323fec0508" />
 
 ### Frontend
 
