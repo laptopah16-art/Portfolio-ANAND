@@ -526,7 +526,7 @@ export default function App() {
                 {[
                   { label: "GitHub", handle: "github.com/laptopah16-art", url: "https://github.com/laptopah16-art" },
                   { label: "LinkedIn", handle: "linkedin.com/in/anand-dev-2a0948401", url: "https://linkedin.com/in/anand-dev-2a0948401" },
-                  { label: "Resume", handle: "https://drive.google.com/file/d/1wGH4BnHpdWuZU8W5XWeMWP8SJ0ghu8Iu/view?usp=sharing", url: "https://drive.google.com/file/d/1wGH4BnHpdWuZU8W5XWeMWP8SJ0ghu8Iu/view?usp=sharing" },
+                  { label: "Resume", handle: "My Resume", url: "https://drive.google.com/file/d/1wGH4BnHpdWuZU8W5XWeMWP8SJ0ghu8Iu/view?usp=sharing" },
                 ].map((link) => (
                   <a
                     key={link.label}
